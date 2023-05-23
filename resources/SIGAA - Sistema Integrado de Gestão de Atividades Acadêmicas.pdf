@@ -1,0 +1,518 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- saved from url=(0159)file:///C:/Users/zsphS/OneDrive/Documents/site-portifolio/resources/SIGAA%20-%20Sistema%20Integrado%20de%20Gest%C3%A3o%20de%20Atividades%20Acad%C3%AAmicas.html -->
+<html xmlns="http://www.w3.org/1999/xhtml" class=" ext-strict ext-strict"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<meta http-equiv="Pragma" content="no-cache">
+	<title>SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas</title>
+	<link class="component" href="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/eAF7sqpgb-jyGdIAFrMEaw__.jsf" rel="stylesheet" type="text/css"><link class="component" href="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/eAF7sqpgb-jyGdIAFrMEaw__(1).jsf" rel="stylesheet" type="text/css"><script type="text/javascript">window.RICH_FACES_EXTENDED_SKINNING_ON=true;</script><script src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/skinning.js.jsf" type="text/javascript"></script><link rel="shortcut icon" href="https://sigaa.ifsc.edu.br/sigaa/img/sigaa.ico">
+	
+	<script type="text/javascript" src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/jawr_loader.js.baixados"></script>
+	<script type="text/javascript">
+		JAWR.loader.style('/javascript/ext-2.0.a.1/resources/css/ext-all.css', 'all');
+		JAWR.loader.style('/css/public.css','all');
+	 	JAWR.loader.script('/bundles/js/sigaa_base.js');
+	 	JAWR.loader.script('/bundles/js/ext2_all.js');
+
+	 	
+	</script> <link rel="stylesheet" type="text/css" media="all" href="file:///C:/shared/cssBundles/gzip_086847611/javascript/ext-2.0.a.1/resources/css/ext-all.css">  <link rel="stylesheet" type="text/css" media="all" href="file:///C:/shared/cssBundles/gzip_07974528/css/public.css">  <script type="text/javascript" src="file:///C:/shared/jsBundles/gzip_633515662/bundles/js/sigaa_base.js"> </script>  <script type="text/javascript" src="file:///C:/shared/jsBundles/gzip_203901949/bundles/js/ext2_all.js"> </script>  <link rel="stylesheet" type="text/css" media="all" href="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/ext-all.css">  <link rel="stylesheet" type="text/css" media="all" href="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/public.css">  <script type="text/javascript" src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/sigaa_base.js.baixados"> </script>  <script type="text/javascript" src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/ext2_all.js.baixados"> </script> 
+	<link rel="stylesheet" type="text/css" media="all" href="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/public(1).css">
+</head>
+
+<body id="ext-gen6" class=" ext-safari">
+	<div id="container">
+	<div id="container-inner">
+
+	<div id="cabecalho">
+		<div id="logo">
+				<a href="https://sigaa.ifsc.edu.br/sigaa/public/"> <img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/brasao.png" height="85%"> </a>
+		</div>
+		<div id="identificacao">
+			<span class="ufrn"> INSTITUTO FEDERAL DE SANTA CATARINA</span>
+			<span class="data">
+				 Florianópolis, 
+				 22 de Maio de 
+				 2023</span>
+			<a id="home" href="https://sigaa.ifsc.edu.br/sigaa/public/" title="Página inicial" style="width: 450px;"> </a>
+			<div style="margin-left: 55%; margin-top: 30px;">
+				<ul>
+					<li>
+						<a href="https://sig.ifsc.edu.br/sigaa/verTelaLogin.do?acessibilidade=true" alt="Acessível para Deficientes visuais" style="font-size: 10px; 
+						font-style: italic;">
+							<img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/modoAcessibilidade.png" width="30px;" height="30px;" align="left" style="margin-right: 5px;">
+							Acessível para <br> Deficientes visuais 
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div id="acesso">
+				<ul>
+					<li class="acesso_esq_bg"></li>
+						<li class="acesso_centro_bg">
+							<a href="https://sigaa.ifsc.edu.br/sigaa/" alt="Clique aqui para logar-se no SIGAA" title="Clique aqui para logar-se no SIGAA">
+								Entrar no sistema
+							</a>
+						</li>
+						<li class="acesso_dir_bg"></li>
+					</ul>
+			</div>
+		</div>
+		<br clear="all">
+	</div>
+
+
+	<div id="corpo">
+	<script src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/encoding.js.baixados" type="text/javascript"></script>
+
+<style>
+	tr.tituloRelatorio td {padding: 19px 0 0; border-bottom: 1px solid #555 ; font-weight: bold; font-size: 13px; }
+	tr.header td {padding: 3px ; border-bottom: 1px solid #555; background-color: #eee;}
+	tr.componentes td {padding: 4px 2px 2px ; border-bottom: 1px dashed #888;}
+	.colCodigo{text-align:left !important;}
+</style>
+<!--  Scripts do YAHOO -->
+	<link rel="stylesheet" type="text/css" href="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/tabs.css">
+	<link rel="stylesheet" type="text/css" href="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/border_tabs.css">
+	<script type="text/javascript" src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/tabview-min.js.baixados"></script>
+
+	<style>
+		table.formulario th {
+			font-weight: bold;
+		}
+	</style>		
+	<script type="text/javascript">
+	var criarAbas = function() {
+	    var tabView = new YAHOO.widget.TabView('tabs-semestres');
+	};
+	criarAbas();
+	</script>
+	
+	
+	
+<h2 class="title">Estrutura Curricular</h2>
+
+	
+<form id="formulario" name="formulario" method="post" action="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="formulario" value="formulario">
+<div class="legenda">
+			<img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif">:&nbsp;Visualizar detalhes do componente<img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png">:&nbsp;Visualizar Programa</div>
+		<h3 class="tituloTabela" style="width: 700px">Dados do Currículo</h3>
+		<table class="formulario" width="700px">
+			<tbody><tr>
+				<th>Código:</th>
+				<td>1641.3</td>
+			</tr>
+			<tr>
+					<th>Matriz Curricular:</th>
+					<td>ANÁLISE E DESENVOLVIMENTO DE SISTEMAS [1641] - Canoinhas - Presencial - N - TECNOLÓGICO</td>
+				</tr>
+			<tr>
+				<th>Período Letivo de Entrada em Vigor</th>
+				<td>2021 - 1</td>
+			</tr>
+			<tr>
+				<th>Carga Horária:</th>
+				<td>
+				<table>
+					<tbody><tr>
+						<td>TotalMínima</td>
+						<td>2000,</td>
+						<td>Optativas Mínima</td>
+						<td>120</td>
+					</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<th>Prazos em Períodos Letivo:</th>
+				<td>
+				<table>
+					<tbody><tr>
+						<td>Mínimo</td>
+						<td>6,</td>
+						<td>Médio</td>
+						<td>6,</td>
+						<td>Máximo</td>
+						<td>12</td>
+					</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			<tr>
+					<th>Créditos por Período Letivo:</th>
+					<td>
+					<table>
+						<tbody><tr>
+							<td>Mínimo</td>
+							<td>1,</td>
+							<td>Médio</td>
+							<td>20,</td>
+							<td>Máximo</td>
+							<td>99</td>
+						</tr>
+					</tbody></table>
+					</td>
+				</tr>
+			<tr>
+					<td colspan="2">
+					<table>
+						<tbody><tr class="tituloRelatorio">
+								<td colspan="3">1º Período</td>
+							</tr>
+							<tr class="header">
+								<td>Estrutura Curricular</td>
+								<td>Natureza</td>
+								<td>&nbsp;</td>
+							</tr>
+							<tr class="componentes">
+										<td>AEO164101 - ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES - 60h (Teórica: 30h - Prática: 30h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											
+<script type="text/javascript" language="Javascript">function dpf(f) {var adp = f.adp;if (adp != null) {for (var i = 0;i < adp.length;i++) {f.removeChild(adp[i]);}}};function apf(f, pvp) {var adp = new Array();f.adp = adp;var i = 0;for (k in pvp) {var p = document.createElement("input");p.type = "hidden";p.name = k;p.value = pvp[k];f.appendChild(p);adp[i++] = p;}};function jsfcljs(f, pvp, t) {apf(f, pvp);var ft = f.target;if (t) {f.target = t;}f.submit();f.target = ft;dpf(f);};</script>
+<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30&#39;:&#39;formulario:j_id_jsp_1167569366_30&#39;,&#39;id&#39;:&#39;53263&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34&#39;:&#39;formulario:j_id_jsp_1167569366_34&#39;,&#39;idComponente&#39;:&#39;53263&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>FDS164101 - FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO - 60h (Teórica: 48h - Prática: 12h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_1&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_1&#39;,&#39;id&#39;:&#39;53261&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_1&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_1&#39;,&#39;idComponente&#39;:&#39;53261&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>IAP164101 - INTRODUÇÃO À PROGRAMAÇÃO - 80h (Teórica: 12h - Prática: 48h - EAD: 20h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_2&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_2&#39;,&#39;id&#39;:&#39;53259&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_2&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_2&#39;,&#39;idComponente&#39;:&#39;53259&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>IEE164101 - INFORMÁTICA, ÉTICA E SOCIEDADE - 60h (Teórica: 30h - Prática: 30h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_3&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_3&#39;,&#39;id&#39;:&#39;53264&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_3&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_3&#39;,&#39;idComponente&#39;:&#39;53264&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>MAT164101 - MATEMÁTICA APLICADA - 60h (Teórica: 48h - Prática: 12h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_4&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_4&#39;,&#39;id&#39;:&#39;53262&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_4&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_4&#39;,&#39;idComponente&#39;:&#39;53262&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr>
+								<td colspan="2"><b>CH Total:</b> 320h. &nbsp;&nbsp;&nbsp; </td>
+							</tr>
+						<tr class="tituloRelatorio">
+								<td colspan="3">2º Período</td>
+							</tr>
+							<tr class="header">
+								<td>Estrutura Curricular</td>
+								<td>Natureza</td>
+								<td>&nbsp;</td>
+							</tr>
+							<tr class="componentes">
+										<td>GDP164102 - GERÊNCIA DE PROJETOS - 60h (EAD: 60h)</td>
+										<td width="8%"><i>Optativa</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_5&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_5&#39;,&#39;id&#39;:&#39;53275&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_5&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_5&#39;,&#39;idComponente&#39;:&#39;53275&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>LIB164102 - LIBRAS - 60h (EAD: 60h)</td>
+										<td width="8%"><i>Optativa</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_6&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_6&#39;,&#39;id&#39;:&#39;53273&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_6&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_6&#39;,&#39;idComponente&#39;:&#39;53273&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>AED164102 - ALGORITMOS E ESTRUTURA DE DADOS - 60h (Teórica: 12h - Prática: 48h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_7&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_7&#39;,&#39;id&#39;:&#39;53270&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_7&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_7&#39;,&#39;idComponente&#39;:&#39;53270&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>BDD164102 - BANCO DE DADOS I - 80h (Teórica: 12h - Prática: 48h - EAD: 20h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_8&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_8&#39;,&#39;id&#39;:&#39;53267&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_8&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_8&#39;,&#39;idComponente&#39;:&#39;53267&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>EGR164102 - ENGENHARIA DE REQUISITOS - 60h (Teórica: 12h - Prática: 48h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_9&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_9&#39;,&#39;id&#39;:&#39;53269&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_9&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_9&#39;,&#39;idComponente&#39;:&#39;53269&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>INI164102 - INGLÊS INSTRUMENTAL - 60h (Teórica: 48h - Prática: 12h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_10&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_10&#39;,&#39;id&#39;:&#39;53266&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_10&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_10&#39;,&#39;idComponente&#39;:&#39;53266&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>PRE164102 - PROBABILIDADE E ESTATÍSTICA - 60h (Teórica: 48h - Prática: 12h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_11&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_11&#39;,&#39;id&#39;:&#39;53271&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_11&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_11&#39;,&#39;idComponente&#39;:&#39;53271&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr>
+								<td colspan="2"><b>CH Total:</b> 440h. &nbsp;&nbsp;&nbsp; </td>
+							</tr>
+						<tr class="tituloRelatorio">
+								<td colspan="3">3º Período</td>
+							</tr>
+							<tr class="header">
+								<td>Estrutura Curricular</td>
+								<td>Natureza</td>
+								<td>&nbsp;</td>
+							</tr>
+							<tr class="componentes">
+										<td>ANA164103 - ANÁLISE DE SISTEMAS - 60h (Teórica: 30h - Prática: 30h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_12&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_12&#39;,&#39;id&#39;:&#39;53281&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_12&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_12&#39;,&#39;idComponente&#39;:&#39;53281&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>BDD164103 - BANCO DE DADOS II - 60h (Teórica: 12h - Prática: 48h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_13&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_13&#39;,&#39;id&#39;:&#39;53278&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_13&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_13&#39;,&#39;idComponente&#39;:&#39;53278&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>DDS164103 - DESENVOLVIMENTO DE SISTEMAS - 60h (Teórica: 12h - Prática: 48h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_14&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_14&#39;,&#39;id&#39;:&#39;53279&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_14&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_14&#39;,&#39;idComponente&#39;:&#39;53279&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>PPI164103 - PROGRAMAÇÃO PARA INTERNET I - 60h (Teórica: 12h - Prática: 48h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_15&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_15&#39;,&#39;id&#39;:&#39;53277&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_15&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_15&#39;,&#39;idComponente&#39;:&#39;53277&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>PRO164103 - PROGRAMAÇÃO ORIENTADA A OBJETOS - 80h (Teórica: 12h - Prática: 48h - EAD: 20h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_16&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_16&#39;,&#39;id&#39;:&#39;53280&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_16&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_16&#39;,&#39;idComponente&#39;:&#39;53280&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr>
+								<td colspan="2"><b>CH Total:</b> 320h. &nbsp;&nbsp;&nbsp; </td>
+							</tr>
+						<tr class="tituloRelatorio">
+								<td colspan="3">4º Período</td>
+							</tr>
+							<tr class="header">
+								<td>Estrutura Curricular</td>
+								<td>Natureza</td>
+								<td>&nbsp;</td>
+							</tr>
+							<tr class="componentes">
+										<td>ATE164104 - ATIVIDADE DE EXTENSÃO I - 60h (Extensão: 60h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_17&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_17&#39;,&#39;id&#39;:&#39;53285&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_17&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_17&#39;,&#39;idComponente&#39;:&#39;53285&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>COT164104 - COMUNICAÇÃO TÉCNICA - 60h (Teórica: 30h - Prática: 30h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_18&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_18&#39;,&#39;id&#39;:&#39;53283&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_18&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_18&#39;,&#39;idComponente&#39;:&#39;53283&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>PDP164104 - PADRÕES DE PROJETOS - 60h (Teórica: 12h - Prática: 48h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_19&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_19&#39;,&#39;id&#39;:&#39;53284&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_19&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_19&#39;,&#39;idComponente&#39;:&#39;53284&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>PPI164104 - PROGRAMAÇÃO PARA INTERNET II - 80h (Teórica: 12h - Prática: 48h - EAD: 20h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_20&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_20&#39;,&#39;id&#39;:&#39;53282&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_20&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_20&#39;,&#39;idComponente&#39;:&#39;53282&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>SIS164104 - SISTEMAS OPERACIONAIS - 60h (Teórica: 30h - Prática: 30h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_21&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_21&#39;,&#39;id&#39;:&#39;53286&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_21&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_21&#39;,&#39;idComponente&#39;:&#39;53286&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr>
+								<td colspan="2"><b>CH Total:</b> 320h. &nbsp;&nbsp;&nbsp; </td>
+							</tr>
+						<tr class="tituloRelatorio">
+								<td colspan="3">5º Período</td>
+							</tr>
+							<tr class="header">
+								<td>Estrutura Curricular</td>
+								<td>Natureza</td>
+								<td>&nbsp;</td>
+							</tr>
+							<tr class="componentes">
+										<td>ATE164105 - ATIVIDADE DE EXTENSÃO II - 60h (Extensão: 60h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_22&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_22&#39;,&#39;id&#39;:&#39;53295&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_22&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_22&#39;,&#39;idComponente&#39;:&#39;53295&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>EEI164105 - EMPREENDEDORISMO E INOVAÇÃO - 60h (Teórica: 30h - Prática: 30h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_23&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_23&#39;,&#39;id&#39;:&#39;53298&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_23&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_23&#39;,&#39;idComponente&#39;:&#39;53298&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>PRO164105 - PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS - 80h (Teórica: 12h - Prática: 48h - EAD: 20h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_24&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_24&#39;,&#39;id&#39;:&#39;53294&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_24&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_24&#39;,&#39;idComponente&#39;:&#39;53294&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>RED164105 - REDES DE COMPUTADORES - 60h (Teórica: 18h - Prática: 42h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_25&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_25&#39;,&#39;id&#39;:&#39;53297&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_25&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_25&#39;,&#39;idComponente&#39;:&#39;53297&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>TES164105 - TESTE DE SOFTWARE - 60h (Teórica: 18h - Prática: 42h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_26&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_26&#39;,&#39;id&#39;:&#39;53296&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_26&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_26&#39;,&#39;idComponente&#39;:&#39;53296&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr>
+								<td colspan="2"><b>CH Total:</b> 320h. &nbsp;&nbsp;&nbsp; </td>
+							</tr>
+						<tr class="tituloRelatorio">
+								<td colspan="3">6º Período</td>
+							</tr>
+							<tr class="header">
+								<td>Estrutura Curricular</td>
+								<td>Natureza</td>
+								<td>&nbsp;</td>
+							</tr>
+							<tr class="componentes">
+										<td>AED164106 - ALGORITMOS E ESTRUTURA DE DADOS II - 60h (Teórica: 12h - Prática: 48h)</td>
+										<td width="8%"><i>Optativa</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_27&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_27&#39;,&#39;id&#39;:&#39;53310&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_27&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_27&#39;,&#39;idComponente&#39;:&#39;53310&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>ENG164106 - ENGENHARIA DE SOFTWARE - 60h (Teórica: 40h - Prática: 20h)</td>
+										<td width="8%"><i>Optativa</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_28&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_28&#39;,&#39;id&#39;:&#39;53308&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_28&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_28&#39;,&#39;idComponente&#39;:&#39;53308&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>IDJ164106 - INTRODUÇÃO AO DESENVOLVIMENTO DE JOGOS - 60h (Teórica: 20h - Prática: 40h)</td>
+										<td width="8%"><i>Optativa</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_29&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_29&#39;,&#39;id&#39;:&#39;53312&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_29&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_29&#39;,&#39;idComponente&#39;:&#39;53312&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>IIA164106 - INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - 60h (Teórica: 30h - Prática: 30h)</td>
+										<td width="8%"><i>Optativa</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_30&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_30&#39;,&#39;id&#39;:&#39;53311&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_30&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_30&#39;,&#39;idComponente&#39;:&#39;53311&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>IIC164106 - INTRODUÇÃO À INTERNET DAS COISAS - 60h (Teórica: 20h - Prática: 40h)</td>
+										<td width="8%"><i>Optativa</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_31&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_31&#39;,&#39;id&#39;:&#39;53313&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_31&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_31&#39;,&#39;idComponente&#39;:&#39;53313&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>IMD164106 - INTRODUÇÃO À MINERAÇÃO DE DADOS - 60h (Teórica: 20h - Prática: 40h)</td>
+										<td width="8%"><i>Optativa</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_32&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_32&#39;,&#39;id&#39;:&#39;53309&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_32&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_32&#39;,&#39;idComponente&#39;:&#39;53309&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>SIC164106 - SISTEMAS COLABORATIVOS - 60h (Teórica: 30h - Prática: 30h)</td>
+										<td width="8%"><i>Optativa</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_33&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_33&#39;,&#39;id&#39;:&#39;53314&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_33&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_33&#39;,&#39;idComponente&#39;:&#39;53314&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>ATE164106 - ATIVIDADE DE EXTENSÃO III - 80h (Extensão: 80h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_34&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_34&#39;,&#39;id&#39;:&#39;53306&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_34&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_34&#39;,&#39;idComponente&#39;:&#39;53306&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>IHC164106 - INTERAÇÃO HUMANO-COMPUTADOR - 60h (Teórica: 12h - Prática: 48h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_35&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_35&#39;,&#39;id&#39;:&#39;53303&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_35&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_35&#39;,&#39;idComponente&#39;:&#39;53303&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>SDI164106 - SEGURANÇA DA INFORMAÇÃO - 60h (Teórica: 12h - Prática: 48h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_36&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_36&#39;,&#39;id&#39;:&#39;53305&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_36&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_36&#39;,&#39;idComponente&#39;:&#39;53305&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr class="componentes">
+										<td>SIS164106 - SISTEMAS DISTRIBUÍDOS - 80h (Teórica: 12h - Prática: 48h - EAD: 20h)</td>
+										<td width="8%"><i>Obrigatória</i></td>
+										<td width="8%" align="center">
+											<a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Detalhes do Componente Curricular" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_30j_id_37&#39;:&#39;formulario:j_id_jsp_1167569366_30j_id_37&#39;,&#39;id&#39;:&#39;53307&#39;,&#39;publico&#39;:&#39;public&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/view.gif"></a><a href="https://sigaa.ifsc.edu.br/sigaa/link/public/curso/curriculo/25691346#" title="Visualizar Programa" onclick="if(typeof jsfcljs == &#39;function&#39;){jsfcljs(document.getElementById(&#39;formulario&#39;),{&#39;formulario:j_id_jsp_1167569366_34j_id_37&#39;:&#39;formulario:j_id_jsp_1167569366_34j_id_37&#39;,&#39;idComponente&#39;:&#39;53307&#39;},&#39;&#39;);}return false"><img src="./SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas_files/report.png"></a></td>
+									</tr>
+								<tr>
+								<td colspan="2"><b>CH Total:</b> 700h. &nbsp;&nbsp;&nbsp; </td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody><tfoot>
+				<tr>
+					<td colspan="2">&nbsp;</td>
+				</tr>
+			</tfoot>
+		</table>
+	<input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id3">
+</form><br>
+	<center>
+	<a href="javascript: history.go(-1);"> &lt;&lt; Voltar</a>
+	</center>
+<div class="clear"></div>
+	</div>
+
+	<div id="rodape">
+		<p>	
+			SIGAA | DTIC - Diretoria de Tecnologia da Informação e Comunicação - (48) 3877-9000 | © IFSC | appdocker2-srv1.appdocker2-inst1<a onclick="javascript:versao();">v3.8.1.749</a>
+			<span style="font-size: 6pt;">22/05/2023 00:00</span>
+		</p>
+	</div>
+
+	<!-- Fim dos containers -->
+	</div>
+	</div>
+<!-- MYFACES JAVASCRIPT -->
+
+
+
+
+<script type="text/javascript" charset="UTF-8">
+		function versao(){
+			var msg='';
+			msg+='SIGAA 3.8.1.749,  publicado em: 12/05/2023\n\n';
+			msg+='Depend\u00eancias:\n';
+			msg+='Arquitetura 2.6.12_s3.2\n';
+			msg+='Entidades Comuns 1.2.50_s.6\n';
+			msg+='Servicos Integrados 1.4.8\n\n';
+			msg+='Copyright SINFO/UFRN';
+			alert(msg);
+		}	
+	</script>
+<style>
+a.linkMobile:link {
+	color: #003395;
+	font-weight: bold;
+	font-size: inherit;
+	text-decoration: none;
+}
+
+a.linkMobile:visited {
+	color: #003390;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a.linkMobile:active {
+	color: #444444;
+	text-decoration: none;
+	font-weight: bold;
+}
+</style>
+
+</body></html>
