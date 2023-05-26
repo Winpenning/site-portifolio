@@ -124,7 +124,8 @@ header .navegacao-primaria li a:hover::after {
 }
 
 .section-div img {
-    max-width: 100%;
+    max-width: 50%;
+    border-radius: 12px;
 }
 
 .digitando::after {
@@ -300,8 +301,6 @@ main .sobre {
 }
 
 /* responsividade */
-@media(max-width: 992px) {}
-
 @media(max-width: 992px) {
     .sobre img {
         grid-column: 1/-1;
@@ -495,7 +494,9 @@ main .sobre {
     padding: 40px;
     position: relative;
 }
-
+.resume_generica .experience_content span{
+    display: block;
+}
 .resume_generica .experience_content div.ativo{
 display: block;
 }

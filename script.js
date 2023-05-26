@@ -70,7 +70,3 @@ function sobreMim() {
 sobreMim();
 ativaletra(titulo);
 menuMobile();
-
-
-
-
