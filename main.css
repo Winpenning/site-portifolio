@@ -49,9 +49,10 @@ header .navegacao-primaria {
 
 header .navegacao-primaria li a {
     color: var(--title-secondary-color);
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     width: 0;
     height: 0;
+    padding: 0px
 }
 
 header .navegacao-primaria li a::after {
@@ -69,19 +70,6 @@ header .navegacao-primaria li a:hover::after {
     padding: 0px;
     border-bottom: 4px solid red;
 }
-
-/*  */
-
-
-
-
-
-
-
-
-
-
-
 
 .section-div {
     animation: initialize .7s forwards;
@@ -307,6 +295,12 @@ main .sobre {
         justify-self: center;
     }
 
+    .section-div .final h2,
+    .section-div .final p,
+    .section-div .final a {
+        color: #151515;
+    }
+
     .sobre-conteudo {
         grid-column: 1/-1;
     }
@@ -316,10 +310,9 @@ main .sobre {
     }
 
     .section-div {
-        background-image: url(./resources/photo.png);
+        background-image: url(./resources/1.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        /* background-position: center; */
     }
 
     header {
@@ -445,11 +438,11 @@ main .sobre {
     border-left: 2px solid red;
 }
 
-.my_resume{
+.my_resume {
     color: white;
 }
 
-.resume_generica{
+.resume_generica {
     padding: 30px;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -472,7 +465,7 @@ main .sobre {
     margin-right: 10px;
 }
 
-.experience{
+.experience {
     margin-bottom: 30px;
     grid-column: 1;
     grid-row: 1;
@@ -487,21 +480,23 @@ main .sobre {
     justify-content: center;
 }
 
-.resume_generica .experience_content div{
+.resume_generica .experience_content div {
     background-color: #222;
     display: none;
     animation: ladoSecao .5s ease-in-out forwards;
     padding: 40px;
     position: relative;
 }
-.resume_generica .experience_content span{
+
+.resume_generica .experience_content span {
     display: block;
 }
-.resume_generica .experience_content div.ativo{
-display: block;
+
+.resume_generica .experience_content div.ativo {
+    display: block;
 }
 
-.resume_generica .experience_content div::before{
+.resume_generica .experience_content div::before {
     content: '';
     border-right: 30px solid transparent;
     border-bottom: 30px solid #222;
@@ -511,29 +506,29 @@ display: block;
     display: inline-block;
 }
 
-.resume_generica .experience_content div span{
+.resume_generica .experience_content div span {
     color: var(--title-primary-color);
     font-family: 'Poppins';
     font-weight: bold;
 }
 
-.resume_generica .experience_content div h3{
+.resume_generica .experience_content div h3 {
     font-family: 'Poppins';
     margin: 10px 0;
 }
 
-.resume_generica .experience_content div p{
+.resume_generica .experience_content div p {
     color: #707070;
     font-size: 1.1rem;
 }
 
-.experience_content ul li.ativo{
+.experience_content ul li.ativo {
     color: #3e3d3d;
 
 }
 
 /* educacao */
-.education{
+.education {
     margin-bottom: 30px;
     grid-column: 2;
     grid-row: 1;
@@ -547,7 +542,8 @@ display: block;
     margin-top: 20px;
     justify-content: center;
 }
-.resume_generica .education_content div{
+
+.resume_generica .education_content div {
     background-color: #222;
     padding: 40px;
     position: relative;
@@ -555,7 +551,7 @@ display: block;
     animation: ladoSecao .5s ease-in-out forwards;
 }
 
-.resume_generica .education_content div::before{
+.resume_generica .education_content div::before {
     content: '';
     border-right: 30px solid transparent;
     border-bottom: 30px solid #222;
@@ -565,26 +561,48 @@ display: block;
     display: inline-block;
 }
 
-.resume_generica .education_content div span{
+.resume_generica .education_content div span {
     color: var(--title-primary-color);
     font-family: 'Poppins';
     font-weight: bold;
 }
 
-.resume_generica .education_content div h3{
+.resume_generica .education_content div h3 {
     font-family: 'Poppins';
     margin: 10px 0;
 }
 
-.resume_generica .education_content div p{
+.resume_generica .education_content div p {
     color: #707070;
     font-size: 1.1rem;
 }
 
-.education_content ul li.ativo{
+.education_content ul li.ativo {
     color: #3e3d3d;
-    
+
 }
-.resume_generica .education_content div.ativo{
+
+.resume_generica .education_content div.ativo {
     display: block;
+}
+
+/*Rodape*/
+footer {
+    height: 10vh;
+    width: 100vw;
+    padding: 50px;
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    background: var(--background-color);
+}
+
+footer {
+    background-color: var(--title-primary-color);
+}
+
+footer div {
+    width: 100%;
+    text-align: center;
+    color: var(--primary-text-color);
 }
