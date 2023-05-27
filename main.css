@@ -298,7 +298,7 @@ main .sobre {
     .section-div .final h2,
     .section-div .final p,
     .section-div .final a {
-        color: #151515;
+        color: var(--title-secondary-color);
     }
 
     .sobre-conteudo {
