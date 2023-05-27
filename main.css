@@ -310,7 +310,7 @@ main .sobre {
     }
 
     .section-div {
-        /* background-image: url(./resources/1.jpg); */
+        background-color: var(--background-color);
         background-repeat: no-repeat;
         background-size: cover;
     }
